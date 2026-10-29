@@ -1,7 +1,3 @@
 flask
 youtube-transcript-api
 gunicorn
-yt-dlp
-openai-whisper
-torch
-torchvision
